@@ -1,0 +1,15 @@
+{
+  "rows": {
+    "anime": [
+      {
+        "name": "Grand Blue",
+        "url": "https://jkanime.net/grand-blue/",
+        "pick": true
+      },
+      {
+        "name": "JKAnime (sitio completo)",
+        "url": "https://jkanime.net/"
+      }
+    ]
+  }
+}

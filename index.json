@@ -1,0 +1,12 @@
+{
+  "name": "Mis animes",
+  "sources": [
+    {
+      "id": "mis-animes",
+      "name": "Mis animes",
+      "description": "Series de JKAnime",
+      "type": "sites",
+      "url": "https://raw.githubusercontent.com/mashiroshii19/mis-animes/main/sites.json"
+    }
+  ]
+}
